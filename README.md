@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="assets/duck.gif" align="center" height="" width="100" />
 </div>
 
-### <div align="center" width="200">Hi there 👋, I am lordarghul, just a data enthusiast </div>
+### <div align="center" width="200">Hi there 👋, I am Lyes, just a data enthusiast </div>
 
 <p align="center">
     <a href="https://sheikhops.github.io/">
