@@ -1,6 +1,6 @@
 
 <!--
-**lordraghul/lordraghul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sheikhops/sheikhops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### <div align="center" width="200">Hi there 👋, I am lordarghul, just a data enthusiast </div>
 
 <p align="center">
-    <a href="https://lordraghul.github.io/">
+    <a href="https://sheikhops.github.io/">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
 </p>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     
-[🏀 NBA Draft Prediction](https://github.com/lordraghul/NBA_DRAFT_MODEL) | [🐶 Dog Breed Classifier](https://github.com/lordraghul/DOG_BREED_CLASSIFIER ) | [💬 Sentiment Analysis on Reddit](https://github.com/lordraghul/SENTIMENT_ANALYSIS_REDDIT) | [🚀 GAN Image Optimization](https://github.com/lordraghul/GAN_PET_PIXEL_ENHANCER )
+[🏀 NBA Draft Prediction](https://github.com/sheikhops/NBA_DRAFT_MODEL) | [🐶 Dog Breed Classifier](https://github.com/sheikhops/DOG_BREED_CLASSIFIER ) | [💬 Sentiment Analysis on Reddit](https://github.com/sheikhops/SENTIMENT_ANALYSIS_REDDIT) | [🚀 GAN Image Optimization](https://github.com/sheikhops/GAN_PET_PIXEL_ENHANCER )
 --- | --- | --- | ---
 
 </div>
